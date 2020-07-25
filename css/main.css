@@ -1,0 +1,16 @@
+
+body{
+   font-family: 'Aleo', serif;
+
+   background-image: url(images/audi.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+.height{
+
+   min-height: 100vh;
+}
+

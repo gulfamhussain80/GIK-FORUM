@@ -1,0 +1,1106 @@
+[28-Jun-2019 01:38:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'netronix_root'@'localhost' to database 'netronix_forum' in /home/netronix/FORUM/connection.php on line 7
+[08-Jul-2019 21:37:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/netronix/FORUM/index.php on line 3
+[22-Jul-2019 21:52:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/netronix/FORUM/index.php on line 3
+[27-Jul-2019 15:29:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'netronix_userone'@'localhost' (using password: YES) in /home/netronix/FORUM/connection.php on line 7
+[27-Jul-2019 15:29:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'netronix_userone'@'localhost' (using password: YES) in /home/netronix/FORUM/connection.php on line 7
+[02-Aug-2019 15:15:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'netronix_userone'@'localhost' (using password: YES) in /home/netronix/FORUM/connection.php on line 7
+[02-Aug-2019 15:15:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'netronix_userone'@'localhost' (using password: YES) in /home/netronix/FORUM/connection.php on line 7
+[02-Aug-2019 15:28:17 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:28:17 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:33:46 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:33:46 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:35:16 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:35:16 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:41:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:41:57 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:43:49 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:43:49 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:44:05 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:44:05 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:45:49 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:45:49 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:46:01 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:46:01 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:46:16 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[02-Aug-2019 15:46:16 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 15:46:56 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[02-Aug-2019 16:23:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/netronix/FORUM/checkattributes.php on line 14
+[02-Aug-2019 16:23:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/netronix/FORUM/index.php on line 21
+[02-Aug-2019 22:19:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/netronix/FORUM/thread.php on line 187
+[03-Aug-2019 16:17:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/netronix/FORUM/index.php on line 3
+[10-Aug-2019 20:46:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/netronix/FORUM/index.php on line 3
+[20-Aug-2019 11:51:07 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:51:07 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:51:07 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:51:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:51:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:51:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:51:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:53:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:53:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:53:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:53:44 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:53:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:53:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:53:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:53:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:54:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:55:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 22
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 23
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 28
+[20-Aug-2019 11:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 30
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:57:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:57:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:57:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:57:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:57:16 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 11:57:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 11:57:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:57:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:57:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[20-Aug-2019 11:57:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[20-Aug-2019 12:00:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[20-Aug-2019 12:00:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:00:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 22
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 23
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 28
+[20-Aug-2019 12:01:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 30
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:02:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:02:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:02:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:02:16 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:02:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:02:25 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:02:25 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:02:25 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:02:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:02:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:02:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:02:33 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[20-Aug-2019 12:03:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[20-Aug-2019 12:22:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:22:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:22:06 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:22:14 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:22:14 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:22:14 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:22:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 22
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 23
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 28
+[20-Aug-2019 12:22:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 30
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:22:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:23:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:23:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:23:08 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:23:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:23:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:23:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:23:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:23:32 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:23:32 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:23:32 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:32:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:32:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:32:44 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:32:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/load.php on line 11
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 22
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 23
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 28
+[20-Aug-2019 12:32:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 30
+[20-Aug-2019 12:32:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:32:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:32:55 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:34:45 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:34:45 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:34:45 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:34:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:34:52 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:34:52 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:34:52 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:41:31 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:41:31 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:41:31 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 12:41:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 12:41:42 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:41:42 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 12:41:42 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:25 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:25 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:25 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:25 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:25 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:25 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 13:17:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 13:17:37 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:37 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 13:17:37 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[20-Aug-2019 14:33:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[20-Aug-2019 14:33:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 14:33:51 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:33 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[20-Aug-2019 19:56:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[20-Aug-2019 19:57:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[21-Aug-2019 00:17:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 00:17:44 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 00:17:44 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:43:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:43:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:43:55 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:43:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:43:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:43:56 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[21-Aug-2019 08:44:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[21-Aug-2019 08:44:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:44:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 08:44:06 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:09:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:09:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:09:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:10:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:10:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:10:34 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[21-Aug-2019 10:10:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/load.php on line 11
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 22
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 23
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 28
+[21-Aug-2019 10:10:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 30
+[21-Aug-2019 10:10:52 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:10:52 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:10:52 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[21-Aug-2019 10:11:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[21-Aug-2019 10:11:21 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/forgotpass.php on line 2
+[21-Aug-2019 10:11:21 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/forgotpass.php on line 2
+[21-Aug-2019 10:11:21 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/forgotpass.php on line 2
+[21-Aug-2019 10:11:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/forgotpass.php on line 6
+[21-Aug-2019 10:11:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/forgotpass.php on line 8
+[21-Aug-2019 10:11:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/forgotpass.php on line 10
+[21-Aug-2019 10:11:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:11:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[21-Aug-2019 10:11:33 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:12:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:12:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:12:55 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:12:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:12:55 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:12:55 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 10:13:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 10:13:07 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:13:07 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:13:07 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 10:13:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 10:13:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[22-Aug-2019 10:13:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[22-Aug-2019 10:13:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 10:13:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 10:13:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 10:13:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[22-Aug-2019 10:13:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/contact.php on line 13
+[22-Aug-2019 10:13:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/contact.php on line 13
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 10:13:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:30:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:30:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:30:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:30:49 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:30:49 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:30:49 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 17:31:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[22-Aug-2019 17:31:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[22-Aug-2019 17:31:54 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:31:54 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[22-Aug-2019 17:31:54 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:37 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:37 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:37 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:37 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:37 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:37 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[23-Aug-2019 15:38:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[23-Aug-2019 15:39:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[23-Aug-2019 15:39:11 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:39:11 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:39:11 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[23-Aug-2019 15:39:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[23-Aug-2019 15:39:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:39:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[23-Aug-2019 15:39:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 06:15:47 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 06:15:47 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 06:15:47 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:37:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:37:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:37:56 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:38:36 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:38:36 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:38:36 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[24-Aug-2019 11:38:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/load.php on line 11
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/load.php on line 11
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 22
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 23
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/load.php on line 28
+[24-Aug-2019 11:39:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/load.php on line 30
+[24-Aug-2019 11:49:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[24-Aug-2019 11:49:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[24-Aug-2019 11:49:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:33 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:33 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[24-Aug-2019 11:49:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[24-Aug-2019 18:57:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:57:16 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:57:16 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[24-Aug-2019 18:57:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[24-Aug-2019 18:58:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 270
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 273
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 275
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 441
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 444
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 445
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/guest.php on line 478
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/guest.php on line 481
+[24-Aug-2019 18:58:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/guest.php on line 483
+[24-Aug-2019 18:58:36 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:58:36 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:58:36 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 13
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 14
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/index.php on line 20
+[24-Aug-2019 18:59:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/index.php on line 21
+[24-Aug-2019 18:59:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:59:48 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 18:59:48 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/index.php on line 4
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/account.php on line 15
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/account.php on line 15
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/account.php on line 15
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/account.php on line 21
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/account.php on line 21
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/account.php on line 461
+[24-Aug-2019 20:16:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/account.php on line 465
+[24-Aug-2019 20:33:28 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:33:28 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:33:28 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:33:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/loadhotsort.php on line 5
+[24-Aug-2019 20:33:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/loadhotsort.php on line 7
+[24-Aug-2019 20:33:33 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:33:33 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:33:33 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:33:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/likedthreads.php on line 6
+[24-Aug-2019 20:33:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/likedthreads.php on line 8
+[24-Aug-2019 20:34:20 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:34:20 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:34:20 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:34:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/likedthreads.php on line 6
+[24-Aug-2019 20:34:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/likedthreads.php on line 8
+[24-Aug-2019 20:34:25 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:34:25 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:34:25 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:34:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/loadhotsort.php on line 5
+[24-Aug-2019 20:34:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/loadhotsort.php on line 7
+[24-Aug-2019 20:34:37 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:34:37 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:34:37 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:34:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/loadhotsort.php on line 5
+[24-Aug-2019 20:34:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/loadhotsort.php on line 7
+[24-Aug-2019 20:35:30 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:35:30 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:35:30 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/loadhotsort.php on line 2
+[24-Aug-2019 20:35:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/loadhotsort.php on line 5
+[24-Aug-2019 20:35:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/loadhotsort.php on line 7
+[24-Aug-2019 20:35:35 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:35:35 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:35:35 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/likedthreads.php on line 6
+[24-Aug-2019 20:35:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/likedthreads.php on line 8
+[24-Aug-2019 20:35:47 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:35:47 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:35:47 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:35:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/likedthreads.php on line 6
+[24-Aug-2019 20:35:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/likedthreads.php on line 8
+[24-Aug-2019 20:37:20 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:37:20 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:37:20 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:37:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/likedthreads.php on line 6
+[24-Aug-2019 20:37:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/likedthreads.php on line 8
+[24-Aug-2019 20:37:27 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:37:27 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:37:27 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/likedthreads.php on line 3
+[24-Aug-2019 20:37:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/likedthreads.php on line 6
+[24-Aug-2019 20:37:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/likedthreads.php on line 8
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 131
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 133
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 136
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 140
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 142
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 152
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/updatevote.php on line 17
+[24-Aug-2019 20:38:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/updatevote.php on line 18
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 22
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 24
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 26
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 30
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 33
+[24-Aug-2019 20:38:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 43
+[24-Aug-2019 20:38:54 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:54 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:54 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/updatevote.php on line 24
+[24-Aug-2019 20:38:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/updatevote.php on line 25
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 131
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 133
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 136
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 140
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 142
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 152
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/updatevote.php on line 17
+[24-Aug-2019 20:38:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/updatevote.php on line 18
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 22
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 24
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 26
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 30
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 33
+[24-Aug-2019 20:38:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 43
+[24-Aug-2019 20:38:59 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:59 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:59 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:38:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/updatevote.php on line 24
+[24-Aug-2019 20:38:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/updatevote.php on line 25
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 131
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 133
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 136
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 140
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 142
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 152
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/updatevote.php on line 17
+[24-Aug-2019 20:39:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/updatevote.php on line 18
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/vote.php on line 5
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 22
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 24
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 26
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 30
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/vote.php on line 33
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/vote.php on line 43
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/updatevote.php on line 4
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/updatevote.php on line 24
+[24-Aug-2019 20:39:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/updatevote.php on line 25
+[24-Aug-2019 21:23:20 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[24-Aug-2019 21:23:20 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[24-Aug-2019 21:23:20 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[24-Aug-2019 21:23:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[24-Aug-2019 21:23:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[24-Aug-2019 21:23:43 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[24-Aug-2019 21:23:43 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[24-Aug-2019 21:23:43 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[24-Aug-2019 21:23:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[24-Aug-2019 21:23:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[25-Aug-2019 10:03:50 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[25-Aug-2019 10:03:50 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[25-Aug-2019 10:03:50 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[25-Aug-2019 10:03:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[25-Aug-2019 10:03:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:10:25 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:25 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:25 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:10:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:10:34 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:34 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:34 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:10:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:10:37 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:37 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:37 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:10:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:10:39 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:39 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:39 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:10:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:10:41 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:41 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:41 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:10:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:10:49 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:49 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:49 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:10:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:10:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:11:05 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:11:05 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:11:05 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:11:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:11:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:13:35 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:13:35 UTC] PHP Warning:  include(../forum-connection.php): failed to open stream: No such file or directory in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:13:35 UTC] PHP Warning:  include(): Failed opening '../forum-connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/netronix/FORUM/thread.php on line 8
+[26-Aug-2019 14:13:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/netronix/FORUM/thread.php on line 185
+[26-Aug-2019 14:13:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:16:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/netronix/FORUM/thread.php on line 187
+[26-Aug-2019 14:16:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/netronix/FORUM/thread.php on line 187
+[27-Aug-2019 18:58:46 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[27-Aug-2019 18:58:46 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[27-Aug-2019 19:02:09 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/netronix/FORUM/contact.php on line 59
+[27-Aug-2019 19:05:46 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/netronix/FORUM/contact.php on line 59
+[27-Aug-2019 19:10:58 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/netronix/FORUM/contact.php on line 61
+[27-Aug-2019 19:15:59 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/netronix/FORUM/contact.php on line 46
+[27-Aug-2019 21:24:00 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[27-Aug-2019 21:24:00 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[27-Aug-2019 22:40:30 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[27-Aug-2019 22:40:30 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[27-Aug-2019 22:41:07 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[27-Aug-2019 22:41:07 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
+[27-Aug-2019 22:47:04 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 6
+[27-Aug-2019 22:47:04 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/netronix/FORUM/verify.php on line 7
